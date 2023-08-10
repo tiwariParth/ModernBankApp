@@ -7,7 +7,14 @@ const App = () => (
       <div className={`${styles.boxWidth}`}>NavBar</div>
     </div>
 
-    <div ></div>
+    <div className={`bg-primary ${styles.flexStart}`}>
+      <div className={`${styles.boxdwidth}`}>Hero</div>
+    </div>
+    <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
+      <div className={`${styles.boxwidth}`}>
+        Stats Buisness Billing CardDeal Testimonials CLients CTA footer
+      </div>
+    </div>
   </div>
 );
 
