@@ -1,5 +1,11 @@
 import React from "react";
 import styles from "./style";
+import { Stats ,Buisness ,Billing ,CardDeal ,Testimonials,CLients,CTA,Footer } from "./components";
+
+
+
+
+
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
