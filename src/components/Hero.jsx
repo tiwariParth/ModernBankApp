@@ -9,13 +9,15 @@ const Hero = () => {
     >
       <div
         className={`flex-1 ${style.flexStart} flex-col xl:px-0 sm:px-16 px-6 `}
-      ></div>
-      <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
-        <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
-        <p className={`${style.paragraph} ml-2`}>
-          <span className="text-white ">20%</span> Dicount For{" "}
-          <span className="text-white "> 1 Month</span> Account
-        </p>
+      >
+        <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
+          <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
+          <p className={`${style.paragraph} ml-2`}>
+            <span className="text-white ">20%</span> Dicount For{" "}
+            <span className="text-white "> 1 Month</span> Account
+          </p>
+        </div>
+        div.
       </div>
     </section>
   );
