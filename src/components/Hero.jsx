@@ -43,7 +43,7 @@ const Hero = () => {
           alt="billing"
           className="w-[100%] h-[100%] relative z-[5]"
         />
-        <div className="absolute z-[10] w-[40%] h-[15%] top-0 pink__gradient"></div>
+        <div className="absolute z-[10] w-[40%] h-[25%] top-0 pink__gradient"></div>
         <div className="absolute z-[1] w-[80%] h-[80%] bottom-0 rounded-full white__gradient"></div>
         <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient"></div>
       </div>
