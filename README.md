@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This a UI design for a Modern Banking App and it is a practice project. 
 
-Currently, two official plugins are available:
+## To Run locally 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`npm install` to install all the dependencies. If not working check the package.jason file
+`npm run dev` to run the server.
+At last this web page is a walkthrough of JavaScript Mastry course. 
+
+[Check out the video here]("www.youtube.com/watch?v=_oO4Qi5aVZs&list=PLXeM7srmDP3DAtzcnMLL5b_waQSUm4JKa&index=6&ab_channel=JavaScriptMastery")
