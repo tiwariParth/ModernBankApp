@@ -11,7 +11,7 @@ const Testimonials = () => {
       className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}
     >
       {/* TODO */}
-      <div />
+      <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] blue__gradient rounded-full" />
       <div className="w-full flex justify-between items-center sm:mb-16 mb-6 md:flex-row flex-col z-1">
         <h1 className={styles.heading2}>
           What people are <br className="sm:block hidden" /> saying about us
