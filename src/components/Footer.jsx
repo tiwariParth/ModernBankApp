@@ -1,9 +1,18 @@
-import React from 'react'
+import React from "react";
+import styles from "../style";
+import { logo } from "../assets";
+import { footerLinks, socialMedia } from "../constants";
 
 const Footer = () => {
   return (
-    <div>Footer</div>
-  )
-}
+    <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
+      <div
+        className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}
+      >
+        
+      </div>
+    </section>
+  );
+};
 
-export default Footer
+export default Footer;
