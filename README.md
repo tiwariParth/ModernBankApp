@@ -1,4 +1,4 @@
-# React + Vite
+# HooBank
 
 This a UI design for a Modern Banking App and it is a practice project. 
 
@@ -9,5 +9,7 @@ This a UI design for a Modern Banking App and it is a practice project.
 `npm run dev` to run the server.
 
 At last this web page is a walkthrough of JavaScript Mastry course. 
+
+[Live Site URL Here]("modern-bank-app-roan.vercel.app/")
 
 [Check out the video here]("www.youtube.com/watch?v=_oO4Qi5aVZs&list=PLXeM7srmDP3DAtzcnMLL5b_waQSUm4JKa&index=6&ab_channel=JavaScriptMastery")
